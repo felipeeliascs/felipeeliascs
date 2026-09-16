@@ -110,34 +110,6 @@ O trabalho envolveu pesquisa relacionada à geração de casos de teste de softw
 
 Atualmente, atuo como **coorientador do projeto CPTECRAFT**, desenvolvido por estudante de Iniciação Científica Júnior no contexto do **Programa Educação do CPTEC/INPE**. O projeto envolve desenvolvimento tecnológico, educação científica e construção de ambiente virtual interativo voltado à divulgação das atividades científicas do CPTEC/INPE.
 
-## Tecnologias utilizadas
-
-Tecnologias já utilizadas em projetos e atividades acadêmicas:
-
-`JavaScript` `HTML` `CSS` `Arduino` `WordPress` `Git` `GitHub` `A-Frame` `WebXR` `ThingSpeak`
-
-## Tecnologias e ferramentas citadas no Edital INPE nº 39/2026
-
-Para manter transparência entre **experiência comprovada** e **tecnologias ainda não utilizadas**, segue o conjunto de tecnologias e ferramentas mencionadas nos requisitos técnicos do edital da bolsa TT-V — Desenvolvedor Full Stack Sênior.
-
-**Qualificações obrigatórias:**
-
-- Linguagens e formatos: **Java, JavaScript, TypeScript, Python, PHP, Shell Script, SQL, XML, JSON, CSS e HTML**;
-- Bancos de dados: **PostgreSQL/PostGIS** e bancos NoSQL, preferencialmente **MongoDB ou Redis**;
-- Bibliotecas/geotecnologias: **GDAL/OGR, TerraLib, Leaflet ou correlatas**;
-- Containers e sistemas distribuídos: **Docker, Docker Swarm, Kubernetes ou correlatos**;
-- Máquinas virtuais e containers em **Linux**, preferencialmente com **Proxmox**.
-
-**Qualificações desejáveis:**
-
-- **Git** e gerenciamento de repositórios em **GitHub** ou plataformas correlatas;
-- Sistemas de Informações Geográficas: **TerraAmazon/TerraView, QGIS e ArcGIS**;
-- **GeoServer** e **GeoNetwork**;
-- Serviços Web **REST** e padrões para GeoServiços **OGC**;
-- **WordPress, Portainer, pgAdmin 4 e PostgreSQL**.
-
-> A presença de uma tecnologia nesta lista não significa que ela tenha sido utilizada em meus projetos. Nos repositórios, procuro distinguir explicitamente o que já foi implementado do que constitui estudo, possibilidade de evolução ou competência ainda a ser desenvolvida.
-
 ## Links
 
 - 🔗 [Currículo Lattes](http://lattes.cnpq.br/1117980884043149)
