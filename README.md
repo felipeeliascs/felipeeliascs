@@ -6,13 +6,13 @@ Atuo na interseção entre **desenvolvimento de software, educação científica
 
 ## Sobre mim
 
-- 🎓 Engenheiro da Computação
-- 📊 Especialista em Big Data e Inteligência Competitiva
+- 🎓 Engenheiro da Computação — UNISAL
 - 📐 Licenciado em Matemática
-- 🎓 Mestrando em Projetos Educacionais de Ciências pela EEL/USP
+- 📊 Especialista em Big Data e Inteligência Competitiva
+- 🎓 Mestrando em Projetos Educacionais de Ciências — EEL/USP
 - 🤖 Professor de Matemática e Robótica Educacional
 - 🔬 Experiência em pesquisa e desenvolvimento tecnológico no INPE
-- 🌎 Interesse em tecnologia aplicada à educação, ciências ambientais e divulgação científica
+- 🌎 Atuação em tecnologia educacional, educação científica, robótica, Internet das Coisas e ambientes virtuais
 
 ## Projetos em destaque
 
@@ -30,20 +30,13 @@ O projeto busca ampliar, de forma acessível e de baixo custo, as possibilidades
 - A-Frame
 - WebXR
 - Realidade Virtual
-- Git/GitHub para versionamento e evolução do projeto
 
-**Tecnologias que podem fazer sentido em evoluções futuras, conforme a necessidade técnica do LabMaker:**
+**Tecnologias previstas para as próximas etapas do desenvolvimento:**
 
-- **TypeScript** — para aumentar a segurança de tipos e facilitar a manutenção à medida que a base de código crescer;
-- **JSON** — para estruturar conteúdos, configurações, objetos interativos e intercâmbio de dados;
-- **API REST** — caso o projeto passe a utilizar backend para conteúdos, usuários, atividades ou resultados;
-- **PostgreSQL** — caso seja necessário persistir usuários, conteúdos, atividades, progresso ou resultados;
-- **Redis** — caso surjam necessidades reais de cache, sessões ou redução do tempo de resposta;
-- **Docker** — para padronizar o ambiente de execução, facilitar testes e tornar a implantação reproduzível;
-- **Linux** — como ambiente de implantação e operação de serviços associados à plataforma;
-- **Shell Script** — para automatizar rotinas de desenvolvimento, implantação e manutenção.
-
-> Essas tecnologias são apresentadas como possibilidades de evolução, e não como tecnologias já implementadas no LabMaker. A adoção deve ocorrer somente quando houver justificativa técnica e pedagógica para o projeto.
+- **TypeScript** — para melhorar a organização e a manutenção da base de código;
+- **JSON** — para estruturar conteúdos, configurações e objetos interativos;
+- **API REST** — para permitir integração com serviços e funcionalidades de backend;
+- **PostgreSQL** — para persistência de usuários, conteúdos, atividades e resultados, caso essa necessidade seja incorporada à plataforma.
 
 ---
 
@@ -107,13 +100,15 @@ O projeto está em processo de documentação e organização para disponibiliza
 - Educação Científica
 - Tecnologias aplicadas às Ciências Ambientais
 
-## Experiência em pesquisa
+## Experiência em pesquisa e orientação
 
 Atuei como bolsista de Iniciação Científica no Instituto Nacional de Pesquisas Espaciais (INPE), no projeto:
 
 **Testes de Software via Model Checking para Sistemas Espaciais Críticos**
 
 O trabalho envolveu pesquisa relacionada à geração de casos de teste de software para sistemas críticos, incluindo aplicações aeroespaciais.
+
+Atualmente, atuo como **coorientador do projeto CPTECRAFT**, desenvolvido por estudante de Iniciação Científica Júnior no contexto do **Programa Educação do CPTEC/INPE**. O projeto envolve desenvolvimento tecnológico, educação científica e construção de ambiente virtual interativo voltado à divulgação das atividades científicas do CPTEC/INPE.
 
 ## Tecnologias utilizadas
 
@@ -142,13 +137,6 @@ Para manter transparência entre **experiência comprovada** e **tecnologias ain
 - **WordPress, Portainer, pgAdmin 4 e PostgreSQL**.
 
 > A presença de uma tecnologia nesta lista não significa que ela tenha sido utilizada em meus projetos. Nos repositórios, procuro distinguir explicitamente o que já foi implementado do que constitui estudo, possibilidade de evolução ou competência ainda a ser desenvolvida.
-
-## Formação
-
-- 🎓 Mestrado Profissional em Projetos Educacionais de Ciências — EEL/USP — em andamento
-- 🎓 Especialização em Big Data e Inteligência Competitiva
-- 🎓 Licenciatura em Matemática
-- 🎓 Engenharia da Computação — UNISAL
 
 ## Links
 
