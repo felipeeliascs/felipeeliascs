@@ -22,7 +22,7 @@ Ambiente virtual interativo desenvolvido como produto educacional e tecnológico
 
 O projeto busca ampliar, de forma acessível e de baixo custo, as possibilidades de ensino de **robótica, cultura Maker e tecnologias digitais em escolas públicas com recursos limitados**.
 
-**Principais tecnologias:**
+**Tecnologias já utilizadas no projeto:**
 
 - JavaScript
 - HTML
@@ -30,6 +30,20 @@ O projeto busca ampliar, de forma acessível e de baixo custo, as possibilidades
 - A-Frame
 - WebXR
 - Realidade Virtual
+- Git/GitHub para versionamento e evolução do projeto
+
+**Tecnologias que podem fazer sentido em evoluções futuras, conforme a necessidade técnica do LabMaker:**
+
+- **TypeScript** — para aumentar a segurança de tipos e facilitar a manutenção à medida que a base de código crescer;
+- **JSON** — para estruturar conteúdos, configurações, objetos interativos e intercâmbio de dados;
+- **API REST** — caso o projeto passe a utilizar backend para conteúdos, usuários, atividades ou resultados;
+- **PostgreSQL** — caso seja necessário persistir usuários, conteúdos, atividades, progresso ou resultados;
+- **Redis** — caso surjam necessidades reais de cache, sessões ou redução do tempo de resposta;
+- **Docker** — para padronizar o ambiente de execução, facilitar testes e tornar a implantação reproduzível;
+- **Linux** — como ambiente de implantação e operação de serviços associados à plataforma;
+- **Shell Script** — para automatizar rotinas de desenvolvimento, implantação e manutenção.
+
+> Essas tecnologias são apresentadas como possibilidades de evolução, e não como tecnologias já implementadas no LabMaker. A adoção deve ocorrer somente quando houver justificativa técnica e pedagógica para o projeto.
 
 ---
 
@@ -37,7 +51,7 @@ O projeto busca ampliar, de forma acessível e de baixo custo, as possibilidades
 
 Projeto iniciado no contexto do Programa Educação do CPTEC/INPE com a proposta de criar uma rede educacional colaborativa para observação, registro e compartilhamento de dados meteorológicos.
 
-A versão inicial da plataforma foi estruturada utilizando **WordPress e recursos de comunidade/rede social**.
+A versão inicial da plataforma foi estruturada utilizando **WordPress e recursos de comunidade/rede social**. O plugin de rede social foi adaptado para permitir que os participantes registrassem informações obtidas pelos alunos durante as atividades de monitoramento, incorporando ao ambiente campos e fluxos voltados ao cadastro e compartilhamento de observações meteorológicas, como **precipitação, temperatura, direção e intensidade do vento e observações das condições do céu**. Dessa forma, a própria comunidade da plataforma passou a funcionar também como espaço de registro e troca dos dados coletados nas atividades educacionais.
 
 O projeto encontra-se em fase de continuidade, prevista para ocorrer por meio de um trabalho de Iniciação Científica Júnior na área de Análise e Desenvolvimento de Sistemas.
 
@@ -101,11 +115,33 @@ Atuei como bolsista de Iniciação Científica no Instituto Nacional de Pesquisa
 
 O trabalho envolveu pesquisa relacionada à geração de casos de teste de software para sistemas críticos, incluindo aplicações aeroespaciais.
 
-## Tecnologias
+## Tecnologias utilizadas
 
-Tecnologias utilizadas em projetos e atividades acadêmicas:
+Tecnologias já utilizadas em projetos e atividades acadêmicas:
 
 `JavaScript` `HTML` `CSS` `Arduino` `WordPress` `Git` `GitHub` `A-Frame` `WebXR` `ThingSpeak`
+
+## Tecnologias e ferramentas citadas no Edital INPE nº 39/2026
+
+Para manter transparência entre **experiência comprovada** e **tecnologias ainda não utilizadas**, segue o conjunto de tecnologias e ferramentas mencionadas nos requisitos técnicos do edital da bolsa TT-V — Desenvolvedor Full Stack Sênior.
+
+**Qualificações obrigatórias:**
+
+- Linguagens e formatos: **Java, JavaScript, TypeScript, Python, PHP, Shell Script, SQL, XML, JSON, CSS e HTML**;
+- Bancos de dados: **PostgreSQL/PostGIS** e bancos NoSQL, preferencialmente **MongoDB ou Redis**;
+- Bibliotecas/geotecnologias: **GDAL/OGR, TerraLib, Leaflet ou correlatas**;
+- Containers e sistemas distribuídos: **Docker, Docker Swarm, Kubernetes ou correlatos**;
+- Máquinas virtuais e containers em **Linux**, preferencialmente com **Proxmox**.
+
+**Qualificações desejáveis:**
+
+- **Git** e gerenciamento de repositórios em **GitHub** ou plataformas correlatas;
+- Sistemas de Informações Geográficas: **TerraAmazon/TerraView, QGIS e ArcGIS**;
+- **GeoServer** e **GeoNetwork**;
+- Serviços Web **REST** e padrões para GeoServiços **OGC**;
+- **WordPress, Portainer, pgAdmin 4 e PostgreSQL**.
+
+> A presença de uma tecnologia nesta lista não significa que ela tenha sido utilizada em meus projetos. Nos repositórios, procuro distinguir explicitamente o que já foi implementado do que constitui estudo, possibilidade de evolução ou competência ainda a ser desenvolvida.
 
 ## Formação
 
